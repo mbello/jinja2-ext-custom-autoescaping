@@ -1,0 +1,6 @@
+# Test Template for Jinja2 with autoescaping
+
+{{ var['entry 1'] | my_filter }}
+
+{{ var.entry2 }}
+
