@@ -1,7 +1,7 @@
 [tool.poetry]
 name = "jinja2-ext-custom-autoescaping"
 version = "0.1.0"
-description = "Jinja2 extension to enable the use of any filter as the autescape filter."
+description = "Jinja2 extension to enable the use of any filter as a custom autescape filter."
 license = "CC0"
 authors = ["mbello <mbello@users.noreply.github.com>"]
 readme = "README.md"
