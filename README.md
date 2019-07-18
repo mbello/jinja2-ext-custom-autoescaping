@@ -1,6 +1,6 @@
 # Overview
 
-Jinja2 extension to enable the use of any filter as a custom autoscape filter.
+Jinja2 extension to enable the use of any filter as a custom autoescape filter.
 
 This package allows you to define rules to determine when your custom autoescaping filter will be
 enabled using the same 'select_autoescape' method you already use to determine
